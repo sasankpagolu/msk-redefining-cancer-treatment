@@ -1,0 +1,8 @@
+The file cnn.py contains the code for Convolutional Neural Network architecture that we used to build the model for training
+on your dataset. 
+For running this code three files are required:
+1. Training Variants
+2. Training Text
+3. PreTrained Word2Vec models - ../embeddings/w2vmodeladdeddata
+Additionally it is dependent on the Keras, Scikit-learn, Tensorflow, Gensim, Pandas and Numpy libraries
+After keeping the files, the program can be run using the command: python cnn.py
