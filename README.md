@@ -29,11 +29,13 @@ Data Sample:
 1. Training_Variant File
 -----------------------------------
 ID | Gene | Variation | Class
+
 1  | FAM58A | Truncating Mutation | 1   
 -----------------------------------
 2. Training_Text File
 -----------------------------------
 ID | Text
+
 1  | Cyclin-dependent kinases (CDKs) regulate a variety of fundamental cellular processes ........
 -----------------------------------
 
