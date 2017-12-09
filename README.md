@@ -1,4 +1,4 @@
-------- README --------
+README
 
 The following repository contains the codes developed for the Kaggle Task: "Personalized Medicine: Redefining Cancer Treatment".
 In this project our goal was to use Machine Learning models to accurately classify genetic mutations from expert 
@@ -22,21 +22,11 @@ In the following repository we have folders for each of the approaches:
  The repository also contains Visualization folder which consists of a R script for visualizing the data and the Submission folder contains all the Kaggle Submission Files.  
 
 Python Packages Required:
-numpy
-keras
-tensorflow
-Xgboost
-scikit learn
-pandas
-LightGBM
-gensim
-h5py
-pickle
-os
-nltk
-html
-theano
-codecs
+numpy, keras, tensorflow, Xgboost, scikit learn, pandas, LightGBM, gensim, h5py, pickle, os, nltk, html, theano, codecs
+
+Data Link: https://www.kaggle.com/c/msk-redefining-cancer-treatment/data
+Data Sample:
+
 
 Drive Folder: https://drive.google.com/drive/folders/1Fdg67U6eylgcnK5K8yZydyRLTfvhQmnL?usp=sharing
 The drive folder contains the following:
