@@ -27,9 +27,9 @@ numpy, keras, tensorflow, Xgboost, scikit learn, pandas, LightGBM, gensim, h5py,
 
 Data Link: https://www.kaggle.com/c/msk-redefining-cancer-treatment/data
 Data Sample: 
-1. Training_Variant File
-ID | Gene | Variation | Class
-1  | FAM58A | Truncating Mutation | 1   
+1. Training_Variant File <br>
+ID | Gene | Variation | Class <br>
+1  | FAM58A | Truncating Mutation | 1 <br>
 
 2. Training_Text File
 ID | Text
