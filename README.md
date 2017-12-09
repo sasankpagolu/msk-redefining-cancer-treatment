@@ -27,13 +27,13 @@ numpy, keras, tensorflow, Xgboost, scikit learn, pandas, LightGBM, gensim, h5py,
 
 Data Link: https://www.kaggle.com/c/msk-redefining-cancer-treatment/data
 Data Sample: 
-1. Training_Variant File <br>
+1. <b>Training_Variant File</b> <br>
 ID | Gene | Variation | Class <br>
 1  | FAM58A | Truncating Mutation | 1 <br>
 
-2. Training_Text File
-ID | Text
-1  | Cyclin-dependent kinases (CDKs) regulate a variety of fundamental cellular processes ........
+2. <b>Training_Text File</b> <br>
+ID | Text <br>
+1  | Cyclin-dependent kinases (CDKs) regulate a variety of fundamental cellular processes ........ <br>
 
 Drive Folder: https://drive.google.com/drive/folders/1Fdg67U6eylgcnK5K8yZydyRLTfvhQmnL?usp=sharing
 The drive folder contains the following:
