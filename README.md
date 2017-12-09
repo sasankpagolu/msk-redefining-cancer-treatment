@@ -32,14 +32,14 @@ _____________________________________
 ID | Gene | Variation | Class
 
 1  | FAM58A | Truncating Mutation | 1   
-_____________________________________
+
 
 2. Training_Text File
 _____________________________________
 ID | Text
 
 1  | Cyclin-dependent kinases (CDKs) regulate a variety of fundamental cellular processes ........
-_____________________________________
+
 
 Drive Folder: https://drive.google.com/drive/folders/1Fdg67U6eylgcnK5K8yZydyRLTfvhQmnL?usp=sharing
 The drive folder contains the following:
