@@ -7,7 +7,7 @@ annotated knowledge bases and text based clinical literature into a set of prede
 For achieving this goal we tried a variety of approaches from using N-grams and TF-IDF,
 word embedding based approaches to deep learning based approaches. We obtained the best results with training Word2Vec
 on our dataset and using LightGBM classifier. The approach gave a log-loss of 1.98 on the Kaggle private leaderboard and
-was ranked number 1 from 1386 total teams. Based on the results that we obtained by trying the various
+was ranked number 1 out of 1386 total teams. Based on the results that we obtained by trying the various
 methods we conclude that if the size of the dataset is good enough,training word embeddings can significantly improve the performance.
 
 Kaggle Competition Link: https://www.kaggle.com/c/msk-redefining-cancer-treatment
