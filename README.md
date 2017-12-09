@@ -1,5 +1,6 @@
+-------------------
 README
-
+-------------------
 The following repository contains the codes developed for the Kaggle Task: "Personalized Medicine: Redefining Cancer Treatment".
 In this project our goal was to use Machine Learning models to accurately classify genetic mutations from expert 
 annotated knowledge bases and text based clinical literature into a set of predefined classes.
@@ -27,17 +28,18 @@ numpy, keras, tensorflow, Xgboost, scikit learn, pandas, LightGBM, gensim, h5py,
 Data Link: https://www.kaggle.com/c/msk-redefining-cancer-treatment/data
 Data Sample: 
 1. Training_Variant File
------------------------------------
+_____________________________________
 ID | Gene | Variation | Class
 
 1  | FAM58A | Truncating Mutation | 1   
------------------------------------
+_____________________________________
+
 2. Training_Text File
------------------------------------
+_____________________________________
 ID | Text
 
 1  | Cyclin-dependent kinases (CDKs) regulate a variety of fundamental cellular processes ........
------------------------------------
+_____________________________________
 
 Drive Folder: https://drive.google.com/drive/folders/1Fdg67U6eylgcnK5K8yZydyRLTfvhQmnL?usp=sharing
 The drive folder contains the following:
