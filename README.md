@@ -25,8 +25,8 @@ In the following repository we have folders for each of the approaches:
 Python Packages Required:
 numpy, keras, tensorflow, Xgboost, scikit learn, pandas, LightGBM, gensim, h5py, pickle, os, nltk, html, theano, codecs
 
-Data Link: https://www.kaggle.com/c/msk-redefining-cancer-treatment/data
-Data Sample: 
+Data Link: https://www.kaggle.com/c/msk-redefining-cancer-treatment/data <br>
+Data Sample: <br>
 1. <b>Training_Variant File</b> <br>
 ID | Gene | Variation | Class <br>
 1  | FAM58A | Truncating Mutation | 1 <br>
